@@ -1,0 +1,234 @@
+@media (max-width: 1440px) {
+  .container {
+    width: 90%;
+  }
+}
+@media (max-width: 1200px) {
+  .container {
+    width: 90%;
+  }
+  #hero .hero {
+    flex-direction: column;
+  }
+  #hero .hero--left {
+    margin: -8px 276px 175px 134px;
+  }
+  #help .help--group {
+    margin: 0 0;
+  }
+  #help .help--btn {
+    margin-left: 400px;
+  }
+  #push .push {
+    margin: 0 100px;
+  }
+  #our .our--logo {
+    flex-wrap: wrap;
+  }
+  #robot .robot--group__logos {
+    right: -45px;
+    top: 56px;
+  }
+  #start .start--group {
+    margin: 1px 379px;
+  }
+}
+@media (max-width: 1151px) {
+  #among .among--one {
+    margin: 100px 53px;
+  }
+  #among .among--one__two h1 {
+    font-size: 25px;
+  }
+  #among .among--one__two button {
+    margin-left: 132px;
+  }
+  #help .help--group {
+    margin: 0 0;
+  }
+  .container {
+    width: 90%;
+  }
+  #push .push {
+    margin: 0 50px;
+  }
+  #robot .robot--vek {
+    display: none;
+  }
+  #robot .robot--group__logos {
+    right: -20px;
+    top: 30px;
+  }
+  #robot .robot--group__logo {
+    right: 231px;
+    bottom: -68px;
+  }
+  #robot .robot--group__block {
+    left: 100px;
+  }
+  #start .start--group {
+    margin: -1px 363px;
+  }
+}
+@media (max-width: 992px) {
+  #among .among--one {
+    margin: 100px 53px;
+  }
+  #among .among--one__two h1 {
+    font-size: 25px;
+  }
+  #among .among--one__two button {
+    margin-left: 79px;
+  }
+  #push .push {
+    margin: 0 0;
+  }
+  #robot .robot--vek {
+    display: none;
+  }
+  #help .help--group {
+    flex-wrap: wrap;
+  }
+}
+@media (max-width: 868px) {
+  #navbar .navbar--group {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  #robot .robot--group__block {
+    left: 11px;
+  }
+  #push .push {
+    width: 600px;
+  }
+  #push .push button {
+    margin-left: 235px;
+  }
+  #help .help--btn {
+    margin-left: 37px;
+  }
+  #start .start {
+    padding: 65px 0;
+  }
+  #start .start--group {
+    margin: 17px 235px;
+  }
+  #track .track {
+    flex-direction: column;
+  }
+  #among .among--one {
+    margin: 100px 53px;
+  }
+  #among .among--one__two h1 {
+    font-size: 25px;
+  }
+  #among .among--one__two button {
+    margin-left: 79px;
+  }
+  #hero--hero__left {
+    transform: none;
+  }
+}
+@media (max-width: 770px) {
+  .container {
+    width: 90%;
+  }
+  #hero--left {
+    transform: none;
+    margin: -8px 276px 175px 5px;
+  }
+  #hero--left__main {
+    top: 130%;
+    left: 68%;
+  }
+  #header .header--group {
+    display: none;
+  }
+  #footer .footer {
+    flex-wrap: wrap;
+  }
+  #among .among--group {
+    flex-wrap: wrap;
+  }
+}
+@media (max-width: 321px) {
+  .container {
+    width: 90%;
+  }
+  #header .header--logo {
+    display: none;
+  }
+  #hero .hero--left--three {
+    flex-direction: column;
+  }
+  #hero .hero--left--three__block {
+    margin: 20px 20px;
+  }
+  #hero .hero--left__group {
+    display: none;
+  }
+  #hero .hero--left__main {
+    display: none;
+  }
+  #robot .robot--group {
+    display: none;
+  }
+  #hero .hero--group__logo {
+    width: 251px;
+    flex-direction: column;
+  }
+  #hero .hero--left {
+    transform: none;
+  }
+  #hero .hero--left__group--one {
+    transform: none;
+  }
+  #hero .hero--left__blocks {
+    flex-direction: column;
+  }
+  #push .push {
+    width: 193px;
+    height: 508px;
+  }
+  #push .push button {
+    margin-left: 36px;
+  }
+  #among .among--one {
+    flex-direction: column;
+  }
+  #among .among--one__two {
+    margin: 20px -37px;
+  }
+  #among .among--one__two button {
+    margin-left: 0;
+  }
+  #check .check--group {
+    flex-direction: column;
+  }
+  #check .check--group__brat--one {
+    flex-direction: column;
+  }
+  #start .start--group {
+    margin: 17px -8px;
+  }
+  #our .our--logo__one img {
+    width: 90%;
+  }
+  #our .our--group {
+    flex-direction: column;
+  }
+  #footer .footer--alga__but {
+    flex-direction: column;
+  }
+  #track {
+    width: 60%;
+  }
+  #track--group button {
+    padding: 10px 46px;
+  }
+  #track--group input {
+    padding: 5px 4px;
+  }
+}
+
+/*# sourceMappingURL=media.css.map */
